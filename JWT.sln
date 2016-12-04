@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTz", "JWTz\JWTz.csproj", "{C3B2C04B-74AB-4840-A2B0-07E6A1013BFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTsTests", "JWTsTests\JWTsTests.csproj", "{B174C5C7-98C2-4CAA-A717-17A16846BF6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTzTests", "JWTsTests\JWTzTests.csproj", "{B174C5C7-98C2-4CAA-A717-17A16846BF6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
