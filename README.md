@@ -1,4 +1,5 @@
 # cSharie
 
-## C Charp :p
+## C Charp :musical_score: :musical_note:
+
 
